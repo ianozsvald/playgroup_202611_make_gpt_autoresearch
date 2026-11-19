@@ -4,6 +4,8 @@ Choose your own adventure to build (bits of) GPT in a playgroup day. Pick your l
 
 Share results as you go in the #transformers channel, particularly good visuals with notes that'd give useful intuitions to everyone else. If you find good resources like other nice tutorials or videos, feel free to raise a PR (or bug report as an easy log) against this repo so I can add them for the future.
 
+This builds on the May event: https://github.com/ianozsvald/playgroup_202605_make_gpt which was written up here: https://www.linkedin.com/feed/update/urn:li:activity:7462109120884543488/
+
 ## Level 1 - you've seen some videos and maybe run the code before
 
 Goal - run MicroGPT (see bullet below), try to figure out all the components of what's behind it. It 'should just run', you can debug it or talk about it and play with tutorials. 
