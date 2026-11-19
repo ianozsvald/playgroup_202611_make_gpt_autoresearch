@@ -1,0 +1,6 @@
+out-shakespeare-char
+__pycache__
+input.txt
+meta.pkl
+*.bin
+*.pt
