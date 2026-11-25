@@ -98,3 +98,5 @@ You're comfy with `pytorch` and you know enough of the Transformer architecture.
 We'll play with https://github.com/karpathy/autoresearch (CUDA based, good on an H100), if you're on a Mac then Ian has had success on his M4 Pro laptop (24GB) with https://github.com/trevin-creator/autoresearch-mlx (MLX-only, no pytorch). 
 
 We'll clone the repo (Ian has the mlx variant) and explore how `program.md` runs and think about whether this mode of work - an assistant trying to be automatically creative on the side of your desk - is a useful idea back in the real world.
+
+Repo link: https://github.com/ianozsvald/autoresearch_sklearn_titanic_expt (written by claude, appears to work, we'll just have to give it a go...)
