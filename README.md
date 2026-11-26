@@ -100,3 +100,18 @@ We'll play with https://github.com/karpathy/autoresearch (CUDA based, good on an
 We'll clone the repo (Ian has the mlx variant) and explore how `program.md` runs and think about whether this mode of work - an assistant trying to be automatically creative on the side of your desk - is a useful idea back in the real world.
 
 Repo link: https://github.com/ianozsvald/autoresearch_sklearn_titanic_expt (written by claude, appears to work, we'll just have to give it a go...)
+
+Good questions:
+* if N people run this, from the same start, in parallel - does it deterministically do the same thing (i.e. low/no variance in research?)
+* does it try to cheat? i.e. get around the score metric? how could it cheat? I'm sure there was discussion of this online...
+* how can we apply this back in the office?
+* does it only perform micro optimisations or can it do bigger jumps? do we need a _different_ `program.md` to build hypotheses with greater variance? do we need a human to apply research-taste and then let the machine grind away?
+
+
+# End of day 
+
+* What are the biggest events of the year?
+* What are the highlights of PLAYGROUP this year?
+* What should we explore next year?
+  * Should we partner with NGO, charities etc?
+* What predictions will you make for 6 months time?
